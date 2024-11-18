@@ -1,3 +1,8 @@
+<script setup>
+import Navbar from "@/components/Navbar.vue";
+import Hero from "@/components/Hero.vue";
+</script>
 <template>
-<h1>Vue Jos App</h1>
+    <Navbar />
+    <Hero />
 </template>
